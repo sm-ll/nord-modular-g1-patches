@@ -1,0 +1,140 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 0 0 2 643 2 1 1 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+1 4 1 29 
+2 65 0 0 
+3 69 0 2 
+5 92 2 16 
+4 14 1 5 
+24 97 1 2 
+25 15 0 4 
+29 17 0 11 
+9 17 0 16 
+7 46 2 2 
+11 81 2 22 
+15 66 2 7 
+23 20 1 9 
+10 73 2 0 
+8 46 2 9 
+12 19 2 14 
+6 72 1 0 
+13 70 1 14 
+14 70 1 16 
+16 48 0 25 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1 
+2 3 0 0 2 0 1 
+2 10 0 0 29 0 1 
+2 23 1 0 29 0 1 
+2 4 3 0 23 1 0 
+2 25 0 0 29 0 1 
+2 13 0 0 29 0 1 
+1 5 0 0 15 0 1 
+1 15 1 0 7 0 1 
+1 15 0 0 15 1 0 
+0 1 0 0 11 0 1 
+0 1 1 0 1 0 0 
+3 4 0 0 24 0 1 
+2 7 0 0 10 0 1 
+2 8 0 0 7 0 0 
+2 10 1 0 29 1 1 
+0 5 2 0 12 0 1 
+0 12 1 0 8 1 1 
+0 12 0 0 23 1 1 
+0 8 4 0 12 0 0 
+0 23 0 0 4 0 1 
+1 6 0 0 25 0 1 
+1 16 0 0 6 0 0 
+2 25 1 0 29 3 1 
+2 14 0 0 29 3 1 
+0 11 0 0 5 0 1 
+2 29 1 0 2 2 1 
+2 5 1 0 9 0 1 
+2 16 1 0 9 0 1 
+2 9 0 0 13 0 1 
+2 29 0 0 3 0 1 
+2 9 1 0 14 0 1 
+1 24 1 0 16 0 1 
+1 24 0 0 6 0 1 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+1 4 3 127 0 0 
+3 69 1 6 
+4 14 5 56 61 3 0 0 
+5 92 7 15 64 59 120 37 2 0 
+6 72 1 127 
+7 46 6 0 36 68 0 0 0 
+8 46 6 0 36 109 0 0 0 
+9 17 36 15 1 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+10 73 1 0 
+11 81 1 115 
+12 19 3 90 127 127 
+15 66 5 0 84 0 84 0 
+16 48 1 127 
+23 20 6 0 0 127 0 95 0 
+24 97 5 45 64 0 127 127 
+25 15 21 58 64 40 64 64 64 64 64 64 64 64 64 64 64 64 64 15 0 0 0 1 
+29 17 36 15 1 0 0 1 0 0 0 0 0 0 0 1 0 0 1 0 0 1 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[MorphMapDump]
+0 0 0 0 
+1 5 0 0 36 
+[/MorphMapDump]
+[KnobMapDump]
+1 5 2 10 
+1 5 3 6 
+1 5 4 7 
+2 1 0 9 
+[/KnobMapDump]
+[CustomDump]
+1 
+4 1 1 
+5 1 1 
+24 1 1 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 2 outputs1
+2 MIDIGlobal1
+3 ClkDiv1
+4 OscSlvA1
+5 FilterF1
+6 NoteScaler1
+7 ACC-FILT ENV
+8 ACC-FILT ENV
+9 SLIDE
+10 Acc logic
+11 Amplifier1
+12 Mixer1
+13 Clik
+14 Rst
+15 ACCENT GAIN
+16 PortamentoA1
+23 ADSR-Env1
+24 MasterOsc1
+25 NOTES
+29 TRIG/ACCENT
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]

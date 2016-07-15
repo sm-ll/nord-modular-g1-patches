@@ -1,0 +1,140 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 0 0 1 643 2 1 1 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+16 46 0 10 
+15 111 0 17 
+17 38 0 19 
+14 19 0 23 
+18 97 1 1 
+5 14 1 4 
+11 51 1 8 
+1 3 1 29 
+6 19 1 19 
+7 87 1 14 
+8 84 1 16 
+9 111 1 21 
+10 87 1 23 
+13 111 0 15 
+12 86 0 21 
+19 81 1 25 
+20 2 0 0 
+2 38 0 8 
+3 112 0 2 
+4 31 0 31 
+21 110 0 5 
+22 19 1 27 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1 
+0 14 1 0 15 0 1 
+3 5 0 0 18 0 1 
+0 6 0 0 11 0 1 
+0 22 0 0 6 0 0 
+0 16 4 0 6 0 1 
+0 9 0 0 6 0 1 
+0 8 1 0 7 0 1 
+0 6 1 0 8 1 1 
+0 10 0 0 9 0 1 
+0 11 2 0 5 0 1 
+0 7 0 0 11 2 0 
+0 5 2 0 14 0 1 
+1 18 0 0 8 0 1 
+0 18 1 0 13 0 1 
+1 15 0 0 16 0 1 
+1 13 0 0 16 0 1 
+2 12 0 0 17 0 1 
+2 8 0 0 17 0 1 
+0 14 2 0 12 0 1 
+0 1 0 0 19 0 1 
+0 22 1 0 19 0 1 
+0 19 0 0 10 0 1 
+2 16 0 0 2 0 1 
+2 17 0 0 16 0 0 
+2 5 3 0 2 0 1 
+0 2 0 0 3 0 1 
+0 3 0 0 20 0 1 
+0 6 2 0 4 0 1 
+1 16 3 0 21 0 1 
+0 1 1 0 22 0 1 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+1 3 1 127 
+2 38 1 4 
+3 112 2 18 1 
+4 31 1 0 
+5 14 5 64 64 0 0 0 
+6 19 3 0 0 35 
+7 87 1 37 
+8 84 3 0 58 0 
+9 111 2 127 1 
+10 87 1 26 
+11 51 10 0 0 0 56 64 0 24 0 0 0 
+12 86 1 91 
+13 111 2 0 0 
+14 19 3 0 127 127 
+15 111 2 127 1 
+16 46 6 0 65 96 0 0 26 
+17 38 1 4 
+18 97 5 40 64 1 92 70 
+19 81 1 97 
+21 110 1 64 
+22 19 3 0 85 34 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[KnobMapDump]
+1 6 2 6 
+2 1 0 10 
+[/KnobMapDump]
+[CustomDump]
+1 
+5 1 0 
+11 1 0 
+18 1 0 
+21 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 4 outputs1
+2 Pulse1
+3 LevAdd1
+4 Noise1
+5 higher tone
+6 bass - click
+7 FilterB1
+8 AD-Env1
+9 LevMult1
+10 FilterB2
+11 FilterE1
+12 FilterA1
+13 LevMult3
+14 Mixer2
+15 LevMult2
+16 AHD-Env2
+17 Pulse1
+18 MasterOsc1
+19 Amplifier1
+20 AudioIn1
+21 RandomGen1
+22 bass - click
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]

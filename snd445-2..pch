@@ -1,0 +1,99 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 0 0 1 679 2 1 1 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+10 1 1 1 
+1 97 1 3 
+11 28 1 6 
+4 10 1 8 
+2 10 1 14 
+5 19 1 17 
+6 92 1 24 
+7 20 1 19 
+8 5 1 32 
+9 81 1 30 
+12 48 0 3 
+3 11 1 11 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1 
+0 5 0 0 4 0 1 
+0 5 2 0 2 0 1 
+3 4 0 0 1 0 1 
+3 3 0 0 4 0 0 
+3 2 0 0 3 0 0 
+2 7 1 0 10 1 1 
+1 4 1 0 11 0 1 
+1 6 0 0 10 2 1 
+1 6 1 0 7 0 1 
+0 8 0 0 9 0 1 
+1 12 0 0 10 0 1 
+1 1 0 0 12 0 1 
+0 7 0 0 5 0 1 
+0 6 2 0 7 1 1 
+0 9 0 0 6 0 1 
+0 5 1 0 3 0 1 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+1 97 5 64 64 0 127 0 
+2 10 5 52 64 64 0 0 
+3 11 4 95 67 0 0 
+4 10 5 95 67 12 0 0 
+5 19 3 86 84 127 
+6 92 7 29 64 55 71 0 1 0 
+7 20 6 2 39 80 0 89 0 
+8 5 3 127 2 0 
+9 81 1 127 
+11 28 1 21 
+12 48 1 60 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[KnobMapDump]
+1 7 1 14 
+1 7 2 15 
+1 7 4 17 
+[/KnobMapDump]
+[CustomDump]
+1 
+1 1 0 
+2 1 0 
+3 1 0 
+4 1 0 
+6 1 0 
+11 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 MasterOsc1
+2 OscSlvB1
+3 OscSlvC1
+4 OscSlvB2
+5 Mixer1
+6 FilterF1
+7 ADSR-Env1
+8 1 output1
+9 Amplifier1
+10 Keyboard1
+11 LFOSlvC1
+12 PortamentoA1
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]

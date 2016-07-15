@@ -1,0 +1,87 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 0 0 1 643 2 1 1 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+1 4 1 35 
+2 65 0 0 
+3 69 0 2 
+11 95 0 10 
+12 19 0 24 
+13 46 0 19 
+19 17 0 4 
+35 87 0 14 
+7 81 0 29 
+4 85 0 16 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1 
+2 3 0 0 2 0 1 
+2 19 0 0 3 0 1 
+1 11 2 0 13 0 1 
+2 11 0 0 19 0 1 
+2 13 0 0 11 0 0 
+2 4 2 0 19 0 1 
+2 19 1 0 2 2 1 
+0 12 0 0 35 0 1 
+0 35 0 0 11 0 1 
+0 4 1 0 11 0 1 
+0 7 0 0 12 0 1 
+0 1 0 0 7 0 1 
+0 1 1 0 1 0 0 
+0 13 4 0 4 0 1 
+0 12 2 0 4 0 1 
+0 12 1 0 13 1 1 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+1 4 3 103 0 0 
+3 69 1 6 
+4 85 5 59 64 0 66 0 
+7 81 1 127 
+11 95 7 29 127 87 0 94 64 0 
+12 19 3 127 87 54 
+13 46 6 37 8 58 0 0 0 
+19 17 36 15 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+35 87 1 56 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[KnobMapDump]
+2 1 0 6 
+[/KnobMapDump]
+[CustomDump]
+1 
+4 1 2 
+11 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 2 outputs1
+2 MIDIGlobal1
+3 ClkDiv1
+4 OscSlvFM1
+7 Amplifier1
+11 PercOsc1
+12 Mixer2
+13 AHD-Env1
+19 EventSeq1
+35 FilterB1
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]

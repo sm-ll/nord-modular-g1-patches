@@ -1,0 +1,129 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 0 0 3 600 2 1 1 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+1 4 1 23 
+2 97 0 3 
+3 13 0 6 
+4 13 0 9 
+5 13 0 12 
+6 19 0 15 
+7 13 2 9 
+8 13 2 12 
+9 13 2 15 
+10 19 2 18 
+11 34 1 8 
+12 25 1 3 
+13 34 1 10 
+14 34 1 12 
+15 34 2 3 
+16 34 2 5 
+17 34 2 7 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1 
+3 3 0 0 2 0 1 
+3 4 0 0 3 0 0 
+3 5 0 0 4 0 0 
+3 7 0 0 5 0 0 
+3 8 0 0 7 0 0 
+3 9 0 0 8 0 0 
+0 6 2 0 5 0 1 
+0 6 1 0 4 0 1 
+0 6 0 0 3 0 1 
+0 10 2 0 9 0 1 
+0 10 1 0 8 0 1 
+0 10 0 0 7 0 1 
+3 11 0 0 12 1 1 
+3 13 0 0 11 0 0 
+3 14 0 0 13 0 0 
+3 15 0 0 12 1 1 
+3 16 0 0 15 0 0 
+3 17 0 0 16 0 0 
+1 3 2 0 11 0 1 
+1 4 2 0 13 0 1 
+1 5 2 0 14 0 1 
+1 7 2 0 15 0 1 
+1 8 2 0 16 0 1 
+1 9 2 0 17 0 1 
+0 1 0 0 6 0 1 
+0 1 1 0 10 0 1 
+6 8 1 0 7 1 0 
+6 9 1 0 8 1 0 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+1 4 3 127 1 0 
+2 97 5 70 64 1 0 0 
+3 13 4 63 64 30 0 
+4 13 4 55 64 0 0 
+5 13 4 58 64 0 0 
+6 19 3 127 127 127 
+7 13 4 51 64 34 0 
+8 13 4 56 64 37 0 
+9 13 4 56 62 46 0 
+10 19 3 127 127 127 
+11 34 1 64 
+12 25 8 50 1 64 0 0 0 0 64 
+13 34 1 68 
+14 34 1 60 
+15 34 1 61 
+16 34 1 69 
+17 34 1 62 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[CustomDump]
+1 
+2 1 1 
+3 1 0 
+4 1 0 
+5 1 0 
+7 1 0 
+8 1 0 
+9 1 0 
+11 1 0 
+13 1 0 
+14 1 0 
+15 1 0 
+16 1 0 
+17 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 2 outputs1
+2 MasterOsc1
+3 OscSlvE1
+4 OscSlvE1
+5 OscSlvE1
+6 Mixer1
+7 OscSlvE1
+8 OscSlvE1
+9 OscSlvE1
+10 Mixer1
+11 RndStepGen1
+12 LFOB1
+13 RndStepGen1
+14 RndStepGen1
+15 RndStepGen1
+16 RndStepGen1
+17 RndStepGen1
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]

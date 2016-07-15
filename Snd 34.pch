@@ -1,0 +1,149 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 0 0 1 600 2 1 1 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+2 32 0 19 
+3 4 0 34 
+6 26 1 22 
+7 44 0 26 
+8 44 0 28 
+9 38 0 6 
+10 38 0 10 
+11 26 0 0 
+13 19 0 14 
+14 30 1 26 
+4 30 1 28 
+5 37 0 8 
+12 34 0 4 
+15 118 0 16 
+1 31 0 12 
+16 19 1 20 
+17 32 1 6 
+18 57 1 4 
+19 82 1 16 
+20 81 1 18 
+21 32 2 6 
+22 47 2 3 
+23 19 1 13 
+24 30 2 1 
+25 81 0 30 
+26 81 0 32 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1 
+0 18 0 0 7 0 1 
+0 25 0 0 7 0 1 
+2 13 0 0 9 0 1 
+2 13 1 0 10 0 1 
+3 14 0 0 6 1 1 
+3 4 0 0 14 0 0 
+1 7 0 0 14 0 1 
+1 8 0 0 4 0 1 
+2 10 0 0 5 0 1 
+3 12 0 0 11 1 1 
+0 2 0 0 15 0 1 
+0 15 0 0 13 0 1 
+1 5 0 0 12 0 1 
+1 9 0 0 12 0 1 
+0 13 2 0 1 0 1 
+0 7 1 0 16 0 1 
+0 8 1 0 7 1 0 
+0 16 0 0 2 0 1 
+0 16 1 0 20 0 1 
+0 20 0 0 19 0 1 
+0 21 0 0 22 1 1 
+0 17 0 0 22 0 1 
+0 22 0 0 18 0 1 
+0 19 0 0 23 0 1 
+0 23 0 0 17 0 1 
+0 23 1 0 21 0 1 
+1 22 1 0 24 0 1 
+0 3 0 0 25 0 1 
+0 26 0 0 8 0 1 
+0 3 1 0 26 0 1 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+1 31 1 0 
+2 32 15 127 100 44 0 0 58 0 0 127 0 0 0 0 107 0 
+3 4 3 127 0 0 
+4 30 1 39 
+5 37 1 12 
+6 26 6 93 2 1 0 0 0 
+7 44 1 1 
+8 44 1 1 
+9 38 1 0 
+10 38 1 18 
+11 26 6 45 2 0 0 0 0 
+12 34 1 76 
+13 19 3 127 127 1 
+14 30 1 40 
+15 118 5 4 10 0 0 0 
+16 19 3 66 127 1 
+17 32 15 127 127 127 0 0 127 0 0 0 0 0 0 0 127 0 
+18 57 2 2 1 
+19 82 1 0 
+20 81 1 101 
+21 32 15 0 127 127 0 0 127 0 0 92 0 0 0 0 127 0 
+22 47 2 127 94 
+23 19 3 127 127 1 
+24 30 1 4 
+25 81 1 127 
+26 81 1 127 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[CustomDump]
+1 
+4 1 0 
+12 1 0 
+14 1 0 
+24 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 Noise1
+2 Filter Bank1
+3 2 outputs1
+4 LFOSlvE2
+5 LogicDelay1
+6 LFOC1
+7 GainControl1
+8 GainControl1
+9 Pulse1
+10 Pulse1
+11 LFOC1
+12 RndStepGen1
+13 Mixer1
+14 LFOSlvE2
+15 Digitizer1
+16 Mixer1
+17 Filter Bank1
+18 InvLevShift1
+19 Diode1
+20 Amplifier1
+21 Filter Bank1
+22 Pan1
+23 Mixer1
+24 LFOSlvE2
+25 Amplifier2
+26 Amplifier2
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]

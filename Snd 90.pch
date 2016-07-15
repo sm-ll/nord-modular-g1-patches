@@ -1,0 +1,126 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 0 0 1 600 2 1 1 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+2 19 1 27 
+3 4 1 31 
+4 29 0 4 
+6 31 0 13 
+7 85 0 10 
+8 14 0 15 
+5 29 1 4 
+10 85 1 7 
+9 31 1 12 
+11 14 1 14 
+1 19 1 25 
+15 44 0 8 
+16 28 0 6 
+12 51 2 15 
+13 47 2 22 
+14 44 0 24 
+17 28 0 22 
+18 44 1 22 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1 
+0 3 1 0 2 0 1 
+0 8 3 0 7 0 1 
+0 12 2 0 7 0 1 
+0 2 0 0 7 0 1 
+1 7 0 0 4 0 1 
+1 15 1 0 4 0 1 
+1 13 1 0 4 0 1 
+1 12 3 0 13 1 0 
+0 8 2 0 6 0 1 
+0 11 3 0 10 0 1 
+0 18 1 0 10 0 1 
+0 11 2 0 9 0 1 
+0 2 1 0 11 0 1 
+0 3 0 0 1 0 1 
+1 10 0 0 5 0 1 
+1 15 0 0 16 0 1 
+0 7 1 0 15 0 1 
+0 8 1 0 15 0 1 
+0 13 0 0 12 0 1 
+0 1 2 0 13 0 1 
+0 2 2 0 13 1 1 
+0 14 1 0 8 0 1 
+1 14 0 0 17 0 1 
+1 18 0 0 17 0 1 
+0 1 0 0 14 0 1 
+0 1 1 0 18 0 1 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+1 19 3 38 37 127 
+2 19 3 57 73 127 
+3 4 3 94 1 0 
+4 29 1 103 
+5 29 1 82 
+6 31 1 127 
+7 85 5 76 71 1 56 0 
+8 14 5 36 82 3 40 0 
+9 31 1 111 
+10 85 5 76 70 1 0 0 
+11 14 5 28 64 1 0 0 
+12 51 10 1 0 0 6 64 0 105 0 18 0 
+13 47 2 72 64 
+14 44 1 0 
+15 44 1 0 
+16 28 1 21 
+17 28 1 16 
+18 44 1 1 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[CustomDump]
+1 
+4 1 0 
+5 1 0 
+7 1 0 
+8 1 0 
+10 1 0 
+11 1 0 
+12 1 0 
+16 1 0 
+17 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 Mixer1
+2 Mixer2
+3 2 outputs1
+4 LFOSlvD1
+5 LFOSlvD1
+6 Noise1
+7 OscSlvFM1
+8 OscSlvA1
+9 Noise1
+10 OscSlvFM1
+11 OscSlvA1
+12 FilterE1
+13 Pan1
+14 GainControl1
+15 GainControl1
+16 LFOSlvC1
+17 LFOSlvC1
+18 GainControl1
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]

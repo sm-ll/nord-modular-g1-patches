@@ -1,0 +1,103 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 0 0 4 600 2 1 1 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+1 14 0 5 
+3 14 0 9 
+5 14 0 13 
+7 19 0 17 
+9 4 0 30 
+10 32 0 19 
+12 97 0 1 
+2 14 1 5 
+4 14 1 9 
+6 14 1 13 
+8 19 1 17 
+11 32 1 19 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1 
+0 9 0 0 10 0 1 
+0 10 0 0 7 0 1 
+3 1 0 0 12 0 1 
+3 3 0 0 1 0 0 
+3 5 0 0 3 0 0 
+3 2 0 0 1 0 0 
+3 4 0 0 2 0 0 
+3 6 0 0 4 0 0 
+0 7 0 0 1 0 1 
+0 3 2 0 1 0 1 
+0 7 1 0 3 0 1 
+0 5 2 0 3 0 1 
+0 7 2 0 5 0 1 
+0 11 0 0 8 0 1 
+0 8 0 0 2 0 1 
+0 4 2 0 2 0 1 
+0 8 1 0 4 0 1 
+0 6 2 0 4 0 1 
+0 8 2 0 6 0 1 
+0 9 1 0 11 0 1 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+1 14 5 50 61 1 0 0 
+2 14 5 50 62 1 0 0 
+3 14 5 64 62 1 0 0 
+4 14 5 64 62 1 0 0 
+5 14 5 64 65 1 0 0 
+6 14 5 64 66 1 0 0 
+7 19 3 127 97 127 
+8 19 3 127 106 127 
+9 4 3 127 0 0 
+10 32 15 111 0 46 0 0 0 21 0 0 0 0 58 91 127 0 
+11 32 15 106 0 30 70 0 0 20 0 0 0 47 0 94 101 0 
+12 97 5 58 64 1 0 0 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[KnobMapDump]
+2 1 0 0 
+[/KnobMapDump]
+[CustomDump]
+1 
+1 1 0 
+2 1 0 
+3 1 0 
+4 1 0 
+5 1 2 
+6 1 2 
+12 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 OscSlvA1
+2 OscSlvA1
+3 OscSlvA1
+4 OscSlvA1
+5 OscSlvA1
+6 OscSlvA1
+7 Mixer1
+8 Mixer1
+9 2 outputs1
+10 Filter Bank1
+11 Filter Bank1
+12 MasterOsc1
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]

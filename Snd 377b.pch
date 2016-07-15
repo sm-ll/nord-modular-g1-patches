@@ -1,0 +1,129 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 0 0 1 600 2 1 1 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+1 3 2 25 
+2 65 0 0 
+3 69 0 2 
+4 17 0 6 
+5 14 1 4 
+6 14 2 4 
+9 46 1 10 
+10 46 2 10 
+11 19 2 8 
+12 19 2 17 
+13 51 1 15 
+15 31 0 11 
+16 111 2 19 
+17 19 0 23 
+19 111 0 19 
+18 46 0 13 
+20 38 0 21 
+7 97 1 1 
+8 81 2 21 
+14 37 0 4 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1 
+2 3 0 0 2 0 1 
+0 12 2 0 11 0 1 
+0 12 0 0 13 0 1 
+0 16 0 0 12 0 1 
+0 17 1 0 19 0 1 
+2 18 0 0 4 0 1 
+2 20 0 0 18 0 0 
+2 9 0 0 4 0 1 
+2 10 0 0 9 0 0 
+1 19 0 0 18 0 1 
+1 7 0 0 18 0 1 
+2 17 2 0 20 0 1 
+0 9 4 0 5 0 1 
+0 10 4 0 6 0 1 
+0 11 1 0 10 1 1 
+0 11 0 0 9 1 1 
+0 18 4 0 15 0 1 
+0 13 2 0 18 1 1 
+3 5 0 0 7 0 1 
+3 6 0 0 5 0 0 
+0 5 3 0 17 0 1 
+0 5 2 0 5 3 0 
+0 6 3 0 5 2 0 
+0 6 2 0 6 3 0 
+0 8 0 0 16 0 1 
+2 4 1 0 2 2 1 
+2 4 0 0 14 0 1 
+2 14 0 0 3 0 1 
+0 1 0 0 8 0 1 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+1 3 1 95 
+3 69 1 5 
+4 17 36 15 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+5 14 5 64 64 0 0 0 
+6 14 5 52 64 0 0 0 
+7 97 5 64 9 1 48 0 
+8 81 1 127 
+9 46 6 0 0 74 0 0 0 
+10 46 6 0 52 53 0 0 0 
+11 19 3 127 87 127 
+12 19 3 120 127 127 
+13 51 10 2 0 0 68 64 0 0 1 0 0 
+14 37 1 31 
+15 31 1 0 
+16 111 2 127 1 
+17 19 3 127 127 127 
+18 46 6 0 8 57 0 0 0 
+19 111 2 107 1 
+20 38 1 0 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[CustomDump]
+1 
+5 1 0 
+6 1 0 
+7 1 0 
+13 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 4 outputs1
+2 MIDIGlobal1
+3 ClkDiv1
+4 EventSeq1
+5 OscSlvA1
+6 OscSlvA1
+7 MasterOsc1
+8 Amplifier1
+9 AHD-Env1
+10 AHD-Env1
+11 Mixer1
+12 Mixer1
+13 FilterE1
+14 LogicDelay1
+15 Noise1
+16 LevMult1
+17 Mixer2
+18 AHD-Env2
+19 LevMult2
+20 Pulse1
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]
